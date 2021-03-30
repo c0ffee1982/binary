@@ -1,0 +1,21 @@
+{
+  "name": "MGJRouter",
+  "version": "0.10.0",
+  "summary": "an smart iOS URL Router",
+  "homepage": "http://github.com/mogujie/MGJRouter",
+  "license": "MIT",
+  "authors": {
+    "lzyy": "healdream@gmail.com"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/MGJRouter/0.10.0/zip",
+    "type": "zip"
+  },
+  "source_files": "bin_MGJRouter_0.10.0/Headers/*",
+  "public_header_files": "bin_MGJRouter_0.10.0/Headers/*.h",
+  "vendored_libraries": "bin_MGJRouter_0.10.0/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
