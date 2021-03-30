@@ -1,0 +1,26 @@
+{
+  "name": "MLeaksFinder",
+  "version": "1.0.0",
+  "summary": "Find memory leaks in your iOS app at develop time.",
+  "homepage": "https://github.com/Zepo/MLeaksFinder",
+  "license": "MIT",
+  "authors": {
+    "Zeposhe": "zeposhe@163.com"
+  },
+  "source": {
+    "http": "http://localhost:8080/frameworks/MLeaksFinder/1.0.0/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "6.0"
+  },
+  "source_files": "bin_MLeaksFinder_1.0.0/Headers/*",
+  "public_header_files": "bin_MLeaksFinder_1.0.0/Headers/*.h",
+  "dependencies": {
+    "FBRetainCycleDetector": [
+
+    ]
+  },
+  "vendored_libraries": "bin_MLeaksFinder_1.0.0/*.a",
+  "description": "「   converted automatically by plugin cocoapods-imy-bin @厦门美柚 - slj    」"
+}
